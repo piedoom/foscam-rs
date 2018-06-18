@@ -1,0 +1,10 @@
+[package]
+name = "foscam"
+version = "0.1.0"
+authors = ["doomy <alexanderpaullozada@gmail.com>"]
+
+[dependencies]
+
+[dev-dependencies]
+ron = "0.3.0"
+serde = "*"
